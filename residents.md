@@ -3,3 +3,4 @@
 居住したい方はプルリクください
 
 - [xsota](https://twitter.com/xsota)
+- [anna](https://twitter.com/rm__rf)

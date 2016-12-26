@@ -1,6 +1,7 @@
 @charset "UTF-8";
 /* CSS Document */
 
+<<<<<<< HEAD
 header {
   overflow: hidden;
 }
@@ -24,4 +25,8 @@ header:after {
 
 header:after {
     clear: both;
+}
+
+body{
+	font-family:"游ゴシック", YuGothic, "ヒラギノ角ゴ Pro", "Hiragino Kaku Gothic Pro", "メイリオ", "Meiryo", sans-serif;
 }

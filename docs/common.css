@@ -1,6 +1,32 @@
 @charset "UTF-8";
 /* CSS Document */
 
+<<<<<<< HEAD
+header {
+  overflow: hidden;
+}
+
+#header_logo {
+  height: 120px;
+  width: auto;
+  margin-right: 20px;
+}
+
+.header_box {
+  float: left;
+}
+
+/* clearfix */
+header:before,
+header:after {
+    content: "";
+    display: table;
+}
+
+header:after {
+    clear: both;
+}
+
 body{
 	font-family:"游ゴシック", YuGothic, "ヒラギノ角ゴ Pro", "Hiragino Kaku Gothic Pro", "メイリオ", "Meiryo", sans-serif;
 	background-image: url("images/logo.png");

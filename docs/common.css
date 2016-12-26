@@ -1,3 +1,27 @@
 @charset "UTF-8";
 /* CSS Document */
 
+header {
+  overflow: hidden;
+}
+
+#header_logo {
+  height: 120px;
+  width: auto;
+  margin-right: 20px;
+}
+
+.header_box {
+  float: left;
+}
+
+/* clearfix */
+header:before,
+header:after {
+    content: "";
+    display: table;
+}
+
+header:after {
+    clear: both;
+}

@@ -4,3 +4,4 @@
 
 - [xsota](https://twitter.com/xsota)
 - [anna](https://twitter.com/rm__rf)
+- [kuragel](https://twitter.com/gelllllllllfish)

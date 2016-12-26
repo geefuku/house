@@ -28,9 +28,9 @@ header:after {
 
 body{
 	font-family:"游ゴシック", YuGothic, "ヒラギノ角ゴ Pro", "Hiragino Kaku Gothic Pro", "メイリオ", "Meiryo", sans-serif;
-	background-image: url("images/logo.png");
+	/*background-image: url("images/logo.png");
 	background-repeat: repeat;
-	background-size:50px;
+	background-size:50px;*/
 }
 
 footer {
